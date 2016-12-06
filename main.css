@@ -1,4 +1,7 @@
-.name, .contact-info, .education {
+.name, .contact-info, .education, .employment-history {
 	font-family: 'Roboto', sans-serif;
 }
 
+.name, .image, .contact-info, .education, .employment-history {
+  margin: 30px;
+}
